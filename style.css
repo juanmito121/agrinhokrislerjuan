@@ -22,7 +22,7 @@ body {
     width: 90%;
     max-width: 600px;
     text-align: center;
-    padding: 20px;
+    padding: 25px;
 }
 
 h1{
@@ -34,8 +34,9 @@ button {
     color: var(--cor-texto);
     border: none;
     border-radius: 15px;
-    padding: 15px;
+    padding: 16px;
     transition: background-color 0.3s;
+    margin-top: 10px;
 }
 
 button:hover{
